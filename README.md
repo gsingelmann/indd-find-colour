@@ -1,6 +1,6 @@
 # Find Colour in Everything
 
-An InDesign Script to mark all occurances of a swatch in the open document.
+An InDesign Script to mark all occurences of a swatch in the open document.
 
 ## Using the Script
 
